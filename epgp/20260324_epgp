@@ -26,46 +26,46 @@ shootyepgp_export_data = {
 		["class"] = "Shaman",
 	},
 	[2] = {
+		["gp"] = 37,
+		["name"] = "Pocholamen",
+		["ep"] = 645,
+		["pr"] = 17.43243243243243,
+		["class"] = "Paladin",
+	},
+	[3] = {
 		["gp"] = 20,
 		["name"] = "Sepok",
 		["ep"] = 310,
 		["pr"] = 15.5,
 		["class"] = "Warrior",
 	},
-	[3] = {
+	[4] = {
 		["gp"] = 38,
 		["name"] = "Currus",
 		["ep"] = 412,
 		["pr"] = 10.8421052631579,
 		["class"] = "Shaman",
 	},
-	[4] = {
+	[5] = {
 		["gp"] = 67,
 		["name"] = "Santafe",
 		["ep"] = 692,
 		["pr"] = 10.32835820895522,
 		["class"] = "Paladin",
 	},
-	[5] = {
+	[6] = {
 		["gp"] = 72,
 		["name"] = "Drakhon",
 		["ep"] = 594,
 		["pr"] = 8.25,
 		["class"] = "Shaman",
 	},
-	[6] = {
+	[7] = {
 		["gp"] = 77,
 		["name"] = "Frecuency",
 		["ep"] = 503,
 		["pr"] = 6.532467532467533,
 		["class"] = "Priest",
-	},
-	[7] = {
-		["gp"] = 100,
-		["name"] = "Pocholamen",
-		["ep"] = 645,
-		["pr"] = 6.45,
-		["class"] = "Paladin",
 	},
 	[8] = {
 		["gp"] = 20,
